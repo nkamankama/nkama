@@ -4,7 +4,7 @@
 Специалист по визуализации данных и построению отчетности в Power BI. 
 Некоторые из выполненных мной проектов:
 
-1. Аналитический отчет для поискового отряда "LizaAlert: https://app.powerbi.com/view?r=eyJrIjoiNmFiMjRjYTgtN2ExZi00ZDZkLWE0Y2EtMGFmMDQ1YzE3ZDNjIiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
+1. Аналитический отчет для поискового отряда LizaAlert: https://app.powerbi.com/view?r=eyJrIjoiNmFiMjRjYTgtN2ExZi00ZDZkLWE0Y2EtMGFmMDQ1YzE3ZDNjIiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
 2. Марфо-Мариинская обитель милосердия. Отчет о деятельности центра: https://app.powerbi.com/view?r=eyJrIjoiNDNhYTEzOGEtODJiZi00ZjU4LThlYWUtNmEyNjQxN2U5NTA2IiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
 3. Отчет о продажах. Застройщик и продавец недвижимости в Израиле: https://app.powerbi.com/view?r=eyJrIjoiM2EyNmZmM2MtMzkzMi00ZjUxLWFlMjctNGNjNGEzOTcxMjRlIiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
 4. Приложение для фитнеса: https://app.powerbi.com/view?r=eyJrIjoiODA0NmEzYmEtNzdkNi00NzVlLTlkODMtYWFmZmNiMmRmZDY1IiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9&pageName=ReportSection
