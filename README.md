@@ -1,6 +1,6 @@
 Привет всем!
 
-Я Спартак Тухватуллин, возраст 44, живу в Москве. Специалист по визуализации данных и построению отчетности в Power BI. Вы можете посмотреть выполненные мной проекты:
+Я Спартак Тухватуллин, возраст 44, живу в Москве. Специалист по визуализации данных и построению отчетности в Power BI. Вы можете посмотреть некоторые из выполненных мной проектов:
 
 1. Аналитический отчет для поискового отряда "LizaAlert: https://app.powerbi.com/view?r=eyJrIjoiNmFiMjRjYTgtN2ExZi00ZDZkLWE0Y2EtMGFmMDQ1YzE3ZDNjIiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
 2. Марфо-Мариинская обитель милосердия. Отчет о деятельности центра: https://app.powerbi.com/view?r=eyJrIjoiNDNhYTEzOGEtODJiZi00ZjU4LThlYWUtNmEyNjQxN2U5NTA2IiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
