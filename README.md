@@ -10,6 +10,9 @@
 6. Конверсия вебмастеров: https://app.powerbi.com/view?r=eyJrIjoiNGM0YWUzOTQtNTc2NS00YzRkLWIzMTUtODM2NDMxNmFlYWJjIiwidCI6ImU1ZTMzYzEzLWFmNGQtNDI1MS04MjgzLWEyOTI1MTQxYWM3OCIsImMiOjl9
 
 Мои контакты: 
+
 telegram: @spartakus1000
+
 spartakus1000@gmail.com
+
 +7 965-147-12-09
